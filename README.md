@@ -1,4 +1,4 @@
-# Leading-Club-Loan-Data-Analysis
+# Lending-Club-Loan-Data-Analysis
 
 ## Introduction
 The goal is to analyze Lending Club's issued loans and to create prediction model using Machine Learning algorithms to predict clients who might default.
