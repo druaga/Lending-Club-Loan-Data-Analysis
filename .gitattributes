@@ -1,0 +1,5 @@
+src/main/resources/static/* linguist-vendored
+project-docs/* linguist-documentation
+
+*.ipynb linguist-language=Python
+
